@@ -1,5 +1,5 @@
 # Today I learned
-##2010331
+##201020180901
 ### python
 
 Hello!
@@ -8,3 +8,10 @@ Hello!
 * q
 *  b
 *    x 
+
+
+#20180902
+
+a a
+b b
+c c 
